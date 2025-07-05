@@ -31,6 +31,8 @@ For more detailing
 
 A Python tool to extract geographical and carrier information from phone numbers using the phonenumbers and geopy libraries.
 
+![image](https://github.com/user-attachments/assets/3cd82dfd-f2ad-46ff-86d2-702d2e1a0b25)
+
 Features
 🌍 Country/Region Identification - Detects the country and region of a phone number
 
